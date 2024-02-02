@@ -19,7 +19,7 @@ In this project I create a Toggle Button with C# .net
 
 ## Demo
 
-![output](https://cdn5.vectorstock.com/i/1000x1000/12/59/toggle-switch-icon-on-and-off-position-simple-vector-25951259.jpg)
+![output](https://i.postimg.cc/bJrBxDZG/tb.jpg)
 
 ## Support
 
